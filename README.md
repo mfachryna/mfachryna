@@ -9,8 +9,6 @@
 <h3 align="center">A Software Engineer specializing in backend development and scalable systems.</h3>
 
 - 🔭 I’m currently working as a **Software Engineer at PT. Bank Syariah Indonesia Tbk.**
-- 🌱 I’m currently learning **Kubernetes and advanced microservice patterns.**
-- 👯 I’m looking to collaborate on **open source FinTech or DevOps tools.**
 - 💬 Ask me about **PHP (Laravel), Go, Java (Spring Boot), and DevOps**
 - 📫 How to reach me: **fachry.arifna@gmail.com**
 
